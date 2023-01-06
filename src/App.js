@@ -15,7 +15,7 @@ function App() {
         {/*input-button*/}
         <div className="flex  w-full gap-4">
           <input
-            className="w-full max-w-[464px] pl-4 border rounded-lg leading-3 bg-[#111827] border-gray-600 text-base   placeholder-gray-600"
+            className="w-full max-w-[464px] text-white pl-4 border rounded-lg leading-3 bg-[#111827] border-gray-600 text-base   placeholder-gray-600"
             type="text"
             placeholder="Create a new task"
           />
