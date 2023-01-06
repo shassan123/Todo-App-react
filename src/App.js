@@ -202,7 +202,7 @@ function App() {
                 </defs>
               </svg>
               <h1 className="text-base font-normal leading-[100%] text-white">
-                My task 1
+                My task 2
               </h1>
             </div>
             {/*delete icon*/}
